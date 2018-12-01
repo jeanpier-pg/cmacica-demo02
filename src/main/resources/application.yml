@@ -1,0 +1,8 @@
+server:
+  port: 9060
+
+labs02:
+    igv: 18
+    nombre: lab0222
+    url: http://www.google.com
+    cuenta: http://www.google.com
